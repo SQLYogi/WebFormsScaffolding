@@ -1,17 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30324.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFormsScaffolding", "WebFormsScaffolding\WebFormsScaffolding.csproj", "{AABF312C-B24B-49CF-ACA9-4F5FCD16ED82}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFormsScaffolding.vsix", "WebFormsScaffolding.vsix\WebFormsScaffolding.vsix.csproj", "{2E36C552-5DD3-4556-B882-956A3663ED2E}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReadMe", "ReadMe", "{8A2A0736-503A-4F47-8499-0E85C26065F7}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
 		ReadMe.txt = ReadMe.txt
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFormsScaffolding", "WebFormsScaffolding\WebFormsScaffolding.csproj", "{AABF312C-B24B-49CF-ACA9-4F5FCD16ED82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFormsScaffolding.vsix", "WebFormsScaffolding.vsix\WebFormsScaffolding.vsix.csproj", "{2E36C552-5DD3-4556-B882-956A3663ED2E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samples.CS", "Samples.CS\Samples.CS.csproj", "{3F5048B1-721E-4A3E-97B3-D5AD61565ED9}"
 EndProject
